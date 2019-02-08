@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: "Page 2 of my site"
+date: 2019-02-07
 ---
 ## A New Post
 
